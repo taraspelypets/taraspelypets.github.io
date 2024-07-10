@@ -1,0 +1,32 @@
+[
+    {
+        "id": "kyiv",
+        "displayName": {
+            "ua": "Київ",
+            "en": "Kyiv"
+        },
+        "scheduleSource": "assets/schedule/kyiv.json",
+        "officialRecource": "https://www.dtek-kem.com.ua/ua/shutdowns",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "lviv",
+        "displayName": {
+            "ua": "Львів",
+            "en": "Lviv"
+        },
+        "scheduleSource": "assets/schedule/lviv.json",
+        "officialRecource": "https://poweron.loe.lviv.ua/",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "ternopil",
+        "displayName": {
+            "ua": "Тернопіль",
+            "en": "Ternopil"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    }
+]

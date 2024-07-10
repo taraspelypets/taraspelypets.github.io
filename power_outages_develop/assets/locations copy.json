@@ -1,0 +1,292 @@
+[
+    {
+        "id": "kyiv",
+        "displayName": {
+            "ua": "Київ",
+            "en": "Kyiv"
+        },
+        "scheduleSource": "assets/schedule/kyiv.json",
+        "officialRecource": "https://www.dtek-kem.com.ua/ua/shutdowns",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "lviv",
+        "displayName": {
+            "ua": "Львів",
+            "en": "Lviv"
+        },
+        "scheduleSource": "assets/schedule/lviv.json",
+        "officialRecource": "https://poweron.loe.lviv.ua/",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "ternopil",
+        "displayName": {
+            "ua": "Тернопіль",
+            "en": "Ternopil"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "rivne",
+        "displayName": {
+            "ua": "Рівне",
+            "en": "Rivne"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "khmelnytsky",
+        "displayName": {
+            "ua": "Хмельницький",
+            "en": "Khmelnytsky"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "ivano-frinkivsk",
+        "displayName": {
+            "ua": "Івано-Франківськ",
+            "en": "Ivano-Frankivsk"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "volyn",
+        "displayName": {
+            "ua": "Луцьк",
+            "en": "Lutsk"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "zakarpatska",
+        "displayName": {
+            "ua": "Ужгород",
+            "en": "Uzhorod"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "chernivtsi",
+        "displayName": {
+            "ua": "Чернівці",
+            "en": "Chernivtsi"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "zhytomyr",
+        "displayName": {
+            "ua": "Житомир",
+            "en": "Zhytomyr"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "vinnytsia",
+        "displayName": {
+            "ua": "Вінниця",
+            "en": "Vinnytsia"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "odesa",
+        "displayName": {
+            "ua": "Одеса",
+            "en": "Odesa"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "mykolaiiv",
+        "displayName": {
+            "ua": "Миколаїв",
+            "en": "Mykolaiiv"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "kherson",
+        "displayName": {
+            "ua": "Херсон",
+            "en": "Kherson"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "cherkasy",
+        "displayName": {
+            "ua": "Черкаси",
+            "en": "Cherkasy"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "cherkasy",
+        "displayName": {
+            "ua": "Черкаси",
+            "en": "Cherkasy"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "rivne",
+        "displayName": {
+            "ua": "Рівне",
+            "en": "Rivne"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "khmelnytsky",
+        "displayName": {
+            "ua": "Хмельницький",
+            "en": "Khmelnytsky"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "ivano-frinkivsk",
+        "displayName": {
+            "ua": "Івано-Франківськ",
+            "en": "Ivano-Frankivsk"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "volyn",
+        "displayName": {
+            "ua": "Луцьк",
+            "en": "Lutsk"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "zakarpatska",
+        "displayName": {
+            "ua": "Ужгород",
+            "en": "Uzhorod"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "chernivtsi",
+        "displayName": {
+            "ua": "Чернівці",
+            "en": "Chernivtsi"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "zhytomyr",
+        "displayName": {
+            "ua": "Житомир",
+            "en": "Zhytomyr"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "vinnytsia",
+        "displayName": {
+            "ua": "Вінниця",
+            "en": "Vinnytsia"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "odesa",
+        "displayName": {
+            "ua": "Одеса",
+            "en": "Odesa"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "mykolaiiv",
+        "displayName": {
+            "ua": "Миколаїв",
+            "en": "Mykolaiiv"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "kherson",
+        "displayName": {
+            "ua": "Херсон",
+            "en": "Kherson"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "cherkasy",
+        "displayName": {
+            "ua": "Черкаси",
+            "en": "Cherkasy"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    },
+    {
+        "id": "cherkasy",
+        "displayName": {
+            "ua": "Черкаси",
+            "en": "Cherkasy"
+        },
+        "scheduleSource": "assets/schedule/ternopil.json",
+        "officialRecource": "https://www.toe.com.ua/news/87",
+        "groupDetectionAvailable": false
+    }
+]
